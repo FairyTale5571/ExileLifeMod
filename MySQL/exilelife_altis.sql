@@ -1,6 +1,8 @@
 CREATE DATABASE  IF NOT EXISTS `exilelife_altis` /*!40100 DEFAULT CHARACTER SET utf8 */;
 USE `exilelife_altis`;
 
+SET FOREIGN_KEY_CHECKS=0;
+
 --
 -- Table structure for table `account`
 --
